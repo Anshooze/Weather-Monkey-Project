@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-Monkey-Project/static/css/main.9e11273e.css",
+    "main.js": "/Weather-Monkey-Project/static/js/main.46f5d04d.js",
+    "static/js/453.ac562f5c.chunk.js": "/Weather-Monkey-Project/static/js/453.ac562f5c.chunk.js",
+    "index.html": "/Weather-Monkey-Project/index.html",
+    "main.9e11273e.css.map": "/Weather-Monkey-Project/static/css/main.9e11273e.css.map",
+    "main.46f5d04d.js.map": "/Weather-Monkey-Project/static/js/main.46f5d04d.js.map",
+    "453.ac562f5c.chunk.js.map": "/Weather-Monkey-Project/static/js/453.ac562f5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e11273e.css",
+    "static/js/main.46f5d04d.js"
+  ]
+}
